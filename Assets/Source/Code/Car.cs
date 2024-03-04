@@ -39,7 +39,7 @@ public class Car : MonoBehaviour
     {
         if (canMove)
         {
-            transform.position += dir*speed;
+            transform.position += dir * (speed * Time.deltaTime);
         }
     }
     

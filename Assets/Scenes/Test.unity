@@ -400,7 +400,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: -1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &308008414
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -547,7 +547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: -1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &390688842
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -738,7 +738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: -1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &489116166
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -885,7 +885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &539872483
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1083,7 +1083,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &629249262
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1230,7 +1230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: -1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &642560530
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1420,7 +1420,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: 1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &850217233
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1639,7 +1639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &1149604607
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1829,7 +1829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: 1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &1171524653
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2059,7 +2059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: 1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &1444027890
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2206,7 +2206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: -1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &1528458826
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2435,7 +2435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &1834130354
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2628,7 +2628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!212 &2097231459
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2779,7 +2779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: -1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!4 &2602325321933189528
 Transform:
   m_ObjectHideFlags: 0
@@ -2879,7 +2879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 1, y: 0, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!4 &2602325322507599829
 Transform:
   m_ObjectHideFlags: 0
@@ -3438,7 +3438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dir: {x: 0, y: -1, z: 0}
   canMove: 0
-  speed: 0.05
+  speed: 10
 --- !u!1 &4484119086858071244
 GameObject:
   m_ObjectHideFlags: 0
